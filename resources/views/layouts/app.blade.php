@@ -35,6 +35,7 @@
                     <ul class="navbar-nav mr-auto">
 
                     </ul>
+                    {{Auth::user()}}
 
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
