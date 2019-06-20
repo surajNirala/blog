@@ -1,6 +1,6 @@
 <footer class="page-footer text-center font-small mdb-color darken-2 mt-4 wow fadeIn">
 
-    <!--Call to action-->
+    <!--Call to action-->{{-- 
     <div class="pt-4">
       <a class="btn btn-outline-white" href="https://mdbootstrap.com/docs/jquery/getting-started/download/" target="_blank"
         role="button">Download MDB
@@ -10,7 +10,7 @@
         free tutorial
         <i class="fas fa-graduation-cap ml-2"></i>
       </a>
-    </div>
+    </div> --}}
     <!--/.Call to action-->
 
     <hr class="my-4">
@@ -54,7 +54,7 @@
     <!--Copyright-->
     <div class="footer-copyright py-3">
       © 2019 Copyright:
-      <a href="https://mdbootstrap.com/education/bootstrap/" target="_blank"> MDBootstrap.com </a>
+      <a href="https://mdbootstrap.com/education/bootstrap/" target="_blank"> Sampark Software pvt ltd.</a>
     </div>
     <!--/.Copyright-->
 
